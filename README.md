@@ -1,5 +1,3 @@
-હા 👍 આ **Interactive Personal Data Collector** program માટે README.md નું detailed content, તમારા code પ્રમાણે જ, અને **Author સૌથી પહેલા** રાખીને:
-
 # 👩‍💻 Author
 
 **Drashti Vadukul**
